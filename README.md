@@ -123,6 +123,25 @@ My objective was to develop an interactive Power BI dashboard that provides lead
 - Market Share, Top 5 customers & Top 5 products.
 - Sub-zone performance and market share trend analysis.
 
-![Executive]
+![Executive](Dashboard/executive.png)
+### Insight:
+
+- Net Sales: $4.97B — up 303.18% vs BM ($1.23B), showing massive revenue growth.
+- Forecast Accuracy: 79.83% — marginally higher than LY (+0.72%).
+- Net Profit %: -11.64% — worsened significantly vs BM (-4.52%), a 157.19% decline, indicating major profitability issues.
+- Gross Margin % peaked at 41.20% (2019) but declined to 36.49% in 2021.
+- Net Profit % showed significant volatility, from 2.21% (2019) to -13.98% (2022).
+- Amazon leads with 13.6% RC and GM% of 36.76%.
+- AtliQ Exclusive has the highest GM% (45.67%) despite lower RC% (9.6%).
+- These five products contribute 18.7% of revenue.
+- NA (26%) and India (25.6%) are top revenue contributors.
+- India has significant losses (-22.03% NP%) despite high revenue, signaling operational inefficiencies.
+
+### 📘 Info Page
+-  Displays last data refresh date
+- 📥 Live Excel download link
+- 🧾 Quick reference for data structure and transformation logic
+
+![info]()
 
 
