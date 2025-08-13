@@ -26,7 +26,17 @@ My objective was to develop an interactive Power BI dashboard that provides lead
 - Excel – Initial Data Processing
 - DAX – Calculated Columns & Measures
 - DAX studio (for optimizing the report)
-- Power BI Service - Live Dashboard
+- Power BI Service - Live Dashboard.
+
+## 💼 My Role & Deliverables
+-  Understood stakeholder needs and identified KPIs for Finance, Sales, Marketing, and Supply Chain.
+-  Create a data connection between MySQL & Power BI.
+-  Cleaned the data in Power Query.
+-  Created calculated columns and measures using DAX.
+-  Created interactive dashboards with consistent layout, theme, and navigation flow.
+-  Developed intuitive page navigation with bookmarks and buttons
+-  Added on-hover explanations for better self-service analytics.
+-  Published to Power BI Service and set up scheduled data refresh.
 
 ## 📌Business Metrics
 - Gross price
@@ -44,4 +54,5 @@ My objective was to develop an interactive Power BI dashboard that provides lead
 - Absolute %
 - BM(Benchmark)
 
-## 💼 My Role & Deliverables
+## 🌐 Dashboard Pages & Structure
+  
