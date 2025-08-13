@@ -151,3 +151,7 @@ My objective was to develop an interactive Power BI dashboard that provides lead
 
 ![Support](Dashboard/supportpage.png)
 
+### Features:
+- One-click switch using bookmark-based toggle buttons.
+- Parameter compatibility (Year, Region, Product Line).
+- Seamless transition animation between views.
