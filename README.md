@@ -67,6 +67,12 @@ My objective was to develop an interactive Power BI dashboard that provides lead
 
 ### 💰 Finance View
 - Analyzed revenue, cost, profit, and variance across time, region, and category.
-- Enabled stakeholders to track performance vs targets and make data-driven financial decisions.
+- Enabled stakeholders to track performance vs targets and make data-driven financial decisions
+- Top/bottom products and customers
 
-  
+![Finance](Dashboard/finance.png)
+- Total Net Sales increased, but Net Profit is negative (-2.29M) compared to a positive benchmark (2.46M).
+- Gross Margin is $99.42M, showing a YoY increase of 116.66%.
+- Operational Expenses (-101.71M) stand out — this is likely the primary reason for negative profitability.
+- APAC has the highest revenue ($147.98M), followed by NA ($62.21M).
+- NA shows the highest YoY growth (182.70%), hinting at a strong market push or expansion.
