@@ -7,3 +7,41 @@ It delivers actionable insights through KPI tracking, profitability analysis, fo
 
 AtliQ Hardware, a rapidly growing tech company, aimed to shift from intuition-based decisions and static Excel reports to a more data-driven approach.
 My objective was to develop an interactive Power BI dashboard that provides leadership with a comprehensive 360° view of key operational, marketing, and financial performance metrics.
+
+## 🎯 Objectives
+
+- Centralize key metrics from multiple departments into a single unified view.
+  
+- Enable leadership to identify revenue patterns and profitability drivers.
+
+- Measure marketing effectiveness by analyzing ROI, CAC trends, and high-converting lead sources.
+
+- Optimize supply chain operations by tracking delivery times, delay causes, and logistics cost distribution.
+
+- Enable faster decision-making through real-time visual insights.
+
+## 🛠 Tech Stack
+- Power BI – Interactive Data Visualization
+- SQL – Data Extraction & Transformation
+- Excel – Initial Data Processing
+- DAX – Calculated Columns & Measures
+- DAX studio (for optimizing the report)
+- Power BI Service - Live Dashboard
+
+## 📌Business Metrics
+- Gross price
+- Pre-invoice deductions
+- Post-Invoice deductions
+- Net Invoice sale
+- Gross Margin
+- Net sales
+- Net profit
+- COGC - cost of goods sold
+- YTD - Year to Date
+- YTG - Year to Go
+- Forecasting %
+- Net Error %
+- Absolute %
+- BM(Benchmark)
+
+## 💼 My Role & Deliverables
