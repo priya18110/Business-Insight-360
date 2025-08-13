@@ -55,4 +55,7 @@ My objective was to develop an interactive Power BI dashboard that provides lead
 - BM(Benchmark)
 
 ## 🌐 Dashboard Pages & Structure
+
+### 🏠 Home Page
+![Home]()
   
