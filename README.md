@@ -57,5 +57,11 @@ My objective was to develop an interactive Power BI dashboard that provides lead
 ## 🌐 Dashboard Pages & Structure
 
 ### 🏠 Home Page
+- Provides a unified navigation hub for all functional dashboards (Finance, Sales, Marketing, Supply Chain, Executive Summary).
+
+- High-level KPIs and category tiles enable quick access to detailed reports.
+
+- Streamlined layout improves usability and reduces time to locate critical insights.
+
 ![Home](Dashboard/home.png)
   
