@@ -57,5 +57,5 @@ My objective was to develop an interactive Power BI dashboard that provides lead
 ## 🌐 Dashboard Pages & Structure
 
 ### 🏠 Home Page
-![Home]()
+![Home](Dashboard/home.png)
   
