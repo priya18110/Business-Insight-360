@@ -95,5 +95,20 @@ My objective was to develop an interactive Power BI dashboard that provides lead
 - Assessed campaign performance, and customer segmentation.
 - Provided insights into brand performance and market engagement.
 
+![Marketing](Dashboard/marketing.png)
+### Insight:
+
+- Notebook segment has the highest sales (~$86.39M) but a negative NP% of -0.92%.
+- Storage and Desktop are the worst performers, with Desktop showing -2.88% NP%, the lowest among all.
+- keyboard category has the highest NS ($41.37M) but a negative NP% of -0.95%.
+- Operational expenses exceed the gross margin, pushing the company into net losses.
+
+### 🚚 Supply Chain View
+- Forecast accuracy tracking.
+- Net error & ABS error analysis.
+- Risk profiling by customer & product.
+
+![Supply Chain]
+
 
 
