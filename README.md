@@ -108,7 +108,21 @@ My objective was to develop an interactive Power BI dashboard that provides lead
 - Net error & ABS error analysis.
 - Risk profiling by customer & product.
 
-![Supply Chain]
+![Supply Chain](Dashboard/supply chain.png)
+### Insight:
 
+- Forecast accuracy dropped by 15.57% vs LY (from 86.45%).
+- Net error improved by 22.88% (from 0.64M).
+- Absolute error surged by 271.06% (from 1.55M to 6M).
+- Mar 20 shows a spike in net error (1.31M) and the lowest forecast accuracy (15.4%).
+- Amazon shows the largest negative net error (-917K) → serious OOS risk.
+- Some segments like Networking have low accuracy (52.5%) and large under-forecasting → stockouts
+
+### 🏢 Executive View
+- Monitor Revenue by division & Revenue by channel.
+- Market Share, Top 5 customers & Top 5 products.
+- Sub-zone performance and market share trend analysis.
+
+![Executive]
 
 
