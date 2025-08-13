@@ -20,6 +20,9 @@ My objective was to develop an interactive Power BI dashboard that provides lead
 
 - Enable faster decision-making through real-time visual insights.
 
+###  Live Dashboard Link
+(https://app.powerbi.com/view?r=eyJrIjoiMjlhNjgyMGQtYzRmZi00ZDNiLWE0NGYtNzRjNzEyYjA4YjNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## 🛠 Tech Stack
 - Power BI – Interactive Data Visualization
 - SQL – Data Extraction & Transformation
@@ -156,5 +159,3 @@ My objective was to develop an interactive Power BI dashboard that provides lead
 
 ![Support](Dashboard/supportpage.png)
 
-###  Live Dashboard Link
-(https://app.powerbi.com/view?r=eyJrIjoiMjlhNjgyMGQtYzRmZi00ZDNiLWE0NGYtNzRjNzEyYjA4YjNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
