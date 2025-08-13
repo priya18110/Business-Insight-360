@@ -108,7 +108,7 @@ My objective was to develop an interactive Power BI dashboard that provides lead
 - Net error & ABS error analysis.
 - Risk profiling by customer & product.
 
-![Supply Chain](Dashboard/supply chain.png)
+![supply chain](Dashboard/supply chain.png)
 ### Insight:
 
 - Forecast accuracy dropped by 15.57% vs LY (from 86.45%).
@@ -142,6 +142,12 @@ My objective was to develop an interactive Power BI dashboard that provides lead
 - 📥 Live Excel download link
 - 🧾 Quick reference for data structure and transformation logic
 
-![info]()
+![info](Dashboard/Info page.png)
 
+### 🛠 Support Page
+- Submit feedback, issues, feature requests
+- Learning links for Power BI
+- Support overlay with help buttons (via bookmarks)
+
+![Support](Dashboard/support page.png)
 
