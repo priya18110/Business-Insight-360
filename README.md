@@ -82,3 +82,18 @@ My objective was to develop an interactive Power BI dashboard that provides lead
 ### 📈 Sales View
 - Monitored sales volume, top-performing products/customers, and channel-wise performance.
 - Unit economics breakdown for better decision-making.
+
+ ![Sales](Dashboard/sales.png)
+ ### Insight:
+
+ - Amazon is the top-performing customer with $49.77M in Net Sales and $18.89M Gross Margin but has a GM% drop of -8.68%.
+ - AtliQ Exclusive and AtliQ e Store show strong GM% of 45.79% and 37.47%, indicating high profitability from digital sales.
+ - COGS is very high at nearly 63% of Net Sales, pushing down profitability.
+ - Overall GM% is 37.10%, but has dropped 9.95% from the benchmark — suggesting margin compression across most customers.
+
+### 📢 Marketing View
+- Assessed campaign performance, and customer segmentation.
+- Provided insights into brand performance and market engagement.
+
+
+
