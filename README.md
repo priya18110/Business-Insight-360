@@ -54,6 +54,11 @@ My objective was to develop an interactive Power BI dashboard that provides lead
 - Absolute %
 - BM(Benchmark)
 
+### Features:
+- One-click switch using bookmark-based toggle buttons.
+- Parameter compatibility (Year, Region, Product Line).
+- Seamless transition animation between views.
+
 ## 🌐 Dashboard Pages & Structure
 
 ### 🏠 Home Page
@@ -150,8 +155,3 @@ My objective was to develop an interactive Power BI dashboard that provides lead
 - Support overlay with help buttons (via bookmarks)
 
 ![Support](Dashboard/supportpage.png)
-
-### Features:
-- One-click switch using bookmark-based toggle buttons.
-- Parameter compatibility (Year, Region, Product Line).
-- Seamless transition animation between views.
