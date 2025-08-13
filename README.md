@@ -64,4 +64,9 @@ My objective was to develop an interactive Power BI dashboard that provides lead
 - Streamlined layout improves usability and reduces time to locate critical insights.
 
 ![Home](Dashboard/home.png)
+
+### 💰 Finance View
+- Analyzed revenue, cost, profit, and variance across time, region, and category.
+- Enabled stakeholders to track performance vs targets and make data-driven financial decisions.
+
   
